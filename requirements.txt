@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.2
+firebase_admin==6.1.0
+Flask==2.2.3
+line_bot_sdk==2.4.2
+openai==0.27.7
+selenium==4.9.1
+tiktoken==0.4.0
+webdriver_manager==3.8.6
+werkzeug==2.2.2
+waitress
