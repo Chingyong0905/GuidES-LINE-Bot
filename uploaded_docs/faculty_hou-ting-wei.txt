@@ -1,0 +1,10 @@
+類型：faculty_lab
+組別：乙組（資訊工程與應用）
+姓名：侯廷偉
+職稱：教授
+學歷：國立成功大學電機系博士
+實驗室：網路計算實驗室
+專長：智慧計算儲存裝置；機器人系統；感測器；情緒感知；資訊安全；醫療資訊系統
+聯絡：分機 63334；Email houtw@ncku.edu.tw
+成就/頁面：https://researchoutput.ncku.edu.tw/en/persons/ting-wei-hou
+來源：https://www.es.ncku.edu.tw/esncku/zh/

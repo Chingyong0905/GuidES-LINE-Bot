@@ -1,0 +1,10 @@
+類型：faculty_lab
+組別：甲組（電機控制與通訊）
+姓名：何明字
+職稱：副教授
+學歷：美國德州農工大學電機工程學系博士
+實驗室：控制與訊號處理實驗室
+專長：控制理論與應用；信號處理；機器人核心技術
+聯絡：分機 63349；Email bruceho@ncku.edu.tw
+成就/頁面：https://researchoutput.ncku.edu.tw/en/persons/ming-tzu-ho
+來源：https://www.es.ncku.edu.tw/esncku/zh/

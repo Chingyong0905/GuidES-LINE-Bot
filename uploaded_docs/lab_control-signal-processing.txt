@@ -1,0 +1,8 @@
+類型：faculty_lab
+實驗室：控制與訊號處理實驗室
+所屬組別：甲組（電機控制與通訊）
+指導老師：何明字（副教授）
+研究方向/關鍵字：控制理論與應用；信號處理；機器人核心技術
+聯絡方式：Email bruceho@ncku.edu.tw；分機 63349
+師資頁面：https://researchoutput.ncku.edu.tw/en/persons/ming-tzu-ho
+來源：https://www.es.ncku.edu.tw/esncku/zh/
